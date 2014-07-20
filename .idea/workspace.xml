@@ -64,19 +64,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.slim" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.slim" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/index.slim">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="game.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+            <state line="6" column="16" selection-start="102" selection-end="102" vertical-scroll-proportion="0.14883721">
               <folding />
             </state>
           </provider>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
         <option value="$PROJECT_DIR$/source/javascripts/game.js" />
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
-        <option value="$PROJECT_DIR$/source/javascripts/game.js.coffee" />
         <option value="$PROJECT_DIR$/source/index.slim" />
+        <option value="$PROJECT_DIR$/source/javascripts/game.js.coffee" />
       </list>
     </option>
   </component>
@@ -425,16 +425,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
+    <entry file="file://$PROJECT_DIR$/source/index.slim">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/index.slim">
+    <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="6" column="16" selection-start="102" selection-end="102" vertical-scroll-proportion="0.14883721">
           <folding />
         </state>
       </provider>
