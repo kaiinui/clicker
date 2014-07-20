@@ -73,10 +73,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="game.js.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="game.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="16" selection-start="102" selection-end="102" vertical-scroll-proportion="0.14883721">
+            <state line="13" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.1153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.45305514">
               <folding />
             </state>
           </provider>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
         <option value="$PROJECT_DIR$/source/index.slim" />
         <option value="$PROJECT_DIR$/source/javascripts/game.js.coffee" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -434,7 +444,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="16" selection-start="102" selection-end="102" vertical-scroll-proportion="0.14883721">
+        <state line="13" column="0" selection-start="212" selection-end="212" vertical-scroll-proportion="-5.1153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="5" selection-start="436" selection-end="436" vertical-scroll-proportion="0.45305514">
           <folding />
         </state>
       </provider>
