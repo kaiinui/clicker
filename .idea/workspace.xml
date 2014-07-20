@@ -40,7 +40,7 @@
       <file leaf-file-name="layout.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="7" selection-start="522" selection-end="522" vertical-scroll-proportion="-11.52">
+            <state line="8" column="17" selection-start="230" selection-end="230" vertical-scroll-proportion="-5.12">
               <folding />
             </state>
           </provider>
@@ -73,6 +73,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="game.js.coffee" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -85,6 +94,10 @@
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/source/stylesheets/all.css" />
+        <option value="$PROJECT_DIR$/source/javascripts/game.js" />
+        <option value="$PROJECT_DIR$/source/layouts/layout.erb" />
+        <option value="$PROJECT_DIR$/source/javascripts/game.js.coffee" />
+        <option value="$PROJECT_DIR$/source/index.slim" />
       </list>
     </option>
   </component>
@@ -391,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="7" selection-start="522" selection-end="522" vertical-scroll-proportion="-11.52">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/stylesheets/all.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -408,6 +414,20 @@
     <entry file="file://$PROJECT_DIR$/source/javascripts/all.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="18" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/layouts/layout.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="17" selection-start="230" selection-end="230" vertical-scroll-proportion="-5.12">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/javascripts/game.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="33" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
